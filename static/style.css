@@ -1,0 +1,28 @@
+.portfolio-grid
+{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+}
+
+.portfolio-link
+{
+	display: block;
+	width: 250px;
+	height: 250px;
+}
+
+.post-content iframe
+{
+	margin: auto;
+	display: block;
+	width: 100%;
+	aspect-ratio: 1/1;
+}
+
+@media only screen and (min-width : 55em)
+{
+	.portfolio-grid
+	{
+		grid-template-columns: repeat(3, 1fr);
+	}
+}

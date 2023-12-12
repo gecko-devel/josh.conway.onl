@@ -1,0 +1,3 @@
+[submodule "themes/terminal-portfolio"]
+	path = themes/terminal-portfolio
+	url = https://github.com/Louisload/hugo-theme-terminal-portfolio

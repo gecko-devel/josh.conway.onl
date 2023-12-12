@@ -1,0 +1,41 @@
+baseURL: /
+languageCode: en-gb
+title: Josh Makes Stuff
+owner: Josh
+theme: terminal-portfolio
+#paginate: 5
+keywords: development, developer, gamedev, indie, independant, student, game, games, gaming
+enableEmoji: true
+
+copyright: © Josh 2023
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+privacy:
+  youtube:
+    privacyEnhanced: true
+
+# Terminal theme params
+params:
+  contentTypeName: posts
+  themeColor: blue
+  showMenuItems: 4
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  autoCover: true
+  showLastUpdated: false
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio
+      weight: 2

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="80" height="290" viewBox="0 0 56 238" version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs id="defs2">
+    <bx:grid x="0" y="0" width="2" height="2"/>
+    <linearGradient id="color-0" bx:pinned="true">
+      <title>Main Colour</title>
+      <stop style="stop-color: rgb(227, 219, 215);"/>
+    </linearGradient>
+  </defs>
+  <path style="fill-opacity: 1; stroke-linecap: round; stroke-miterlimit: 12; stroke-linejoin: round; fill: url(#color-0); stroke-width: 3px;" d="M 28 0 C 28 0 32 36 56 82 C 30 126 28 238 28 238 C 28 238 26 126 0 82 C 24 36 28 0 28 0 Z" id="path857">
+    <title>Star Path</title>
+  </path>
+</svg>
