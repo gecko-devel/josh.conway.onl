@@ -2,8 +2,8 @@ baseURL: /
 languageCode: en-gb
 title: Josh Makes Stuff
 owner: Josh
-theme: terminal-portfolio
-#paginate: 5
+theme: terminal-extended
+paginate: 10
 keywords: development, developer, gamedev, indie, independant, student, game, games, gaming
 enableEmoji: true
 

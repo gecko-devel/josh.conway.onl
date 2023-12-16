@@ -1,3 +1,3 @@
-[submodule "themes/terminal-portfolio"]
-	path = themes/terminal-portfolio
-	url = https://github.com/Louisload/hugo-theme-terminal-portfolio
+[submodule "themes/terminal-extended"]
+	path = themes/terminal-extended
+	url = https://github.com/Louisload/hugo-theme-terminal-extended

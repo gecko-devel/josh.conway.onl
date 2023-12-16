@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-isPortfolio: true
+type: portfolio
 ---
 
 # Finished Games
