@@ -5,8 +5,6 @@ weight: 1
 ---
 Created May 2023
 
-<iframe id="" src="game-build" name="game" frameborder="0" marginheight="0" scrolling="no" width="100%"></iframe>
-
 # Video
 {{< youtube vym_1GWTG_4 >}}
 
