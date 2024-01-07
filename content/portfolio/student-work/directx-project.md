@@ -7,12 +7,11 @@ Created December 2022
 
 {{< youtube SnfcaVfUyRA >}}
 
-[Source code here!](https://github.com/gecko-devel/directx11-renderer-uni2022)
-
 # What is it?
 
 - **Engine**: My own!
 - **Language**: C++ and HLSL
+- **Source Code:** [Here!](https://github.com/gecko-devel/directx11-renderer-uni2022)
 
 This small application is a project developed for university that involves learning how the DirectX 11 render pipeline works and how to implement various lighting techniques.
 
